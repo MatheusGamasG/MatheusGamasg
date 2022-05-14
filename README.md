@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Matheus, prazer em conhecê-lo 😎
 
-- 🌎 Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como Professor de Geografia.
-- 🖥 Estou estudando intensamente com o objetivo de migrar para a área de tecnologia.
-- 📚 Focando os estudos em Desenvolvimento Web Front-End.
+- 🌎 Desenvolvedor na Capgemini e estudante de Análise e Desenvolvimento de Sistemas.
+- 🖥 Nível júnior.
+- 📚 Focando os estudos em Desenvolvimento Web Java/Angular.
 
 ##
 
