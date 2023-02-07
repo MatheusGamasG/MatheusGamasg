@@ -1,4 +1,4 @@
-### Olá! Eu sou o Matheus, prazer em conhecê-lo 😎
+### Hello! I'm Matheus, nice to meet ya! 😎
 
 - 🌎 Java Developer at BEES.
 - 🖥 System Development and Analysis Student.
