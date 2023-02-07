@@ -1,12 +1,12 @@
 ### Olá! Eu sou o Matheus, prazer em conhecê-lo 😎
 
-- 🌎 Desenvolvedor na Capgemini e estudante de Análise e Desenvolvimento de Sistemas.
-- 🖥 Nível júnior.
-- 📚 Focando os estudos em Desenvolvimento Web Java/Angular.
+- 🌎 Java Developer at BEES.
+- 🖥 System Development and Analysis Student.
+- 📚 Study focus in web development mainly with Java.
 
 ##
 
-#### Tecnologias:
+#### Technologies:
 <div style="display:flex">
   <img height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -16,7 +16,7 @@
   <img height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />  
 </div>
 
-#### Aprendendo atualmente:
+#### Learning and Improving:
 
 <div style="display:flex">
   <img height="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
@@ -28,7 +28,7 @@
 
 ##
 
-#### Contatos:
+#### Contact me:
 
 <div style="display:flex">
   <a href="https://www.linkedin.com/in/matheus-gamas-g/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
