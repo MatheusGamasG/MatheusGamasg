@@ -1,8 +1,7 @@
 ### Hello! I'm Matheus, nice to meet ya! 😎
 
-- 🌎 Java Developer at BEES.
-- 🖥 System Development and Analysis Student.
-- 📚 Study focus in web development mainly with Java.
+- 🌎 Java Developer at PicPay.
+- 📚 Study focused in web development.
 
 ##
 
